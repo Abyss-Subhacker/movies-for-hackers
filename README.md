@@ -52,7 +52,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [The Imitation Game](http://www.imdb.com/title/tt2084970/)                                 | Drama/Thriller            | 2014 | 8.2/10 |
 | [Pi](http://www.imdb.com/title/tt0138704/)                                                 | Drama/Mystery             | 1998 | 7.5/10
 |
-| [Mickey Virus](http://www.imdb.com/title/tt2796318/                                        | Thriller/Comedy(Bollywood)|2013  | 6.1/10
+| [Mickey Virus](http://www.imdb.com/title/tt2796318/)                                       | Thriller/Comedy(Bollywood)|2013  | 6.1/10
 
 ## Science Fiction / Fantasy
 
